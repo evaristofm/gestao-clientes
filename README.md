@@ -1,2 +1,2 @@
-# gestao-clientes
-CRUD listagem de clientes
+# gestao_clientes
+ Criando um app de gestão de clientes com deploy no heroku
